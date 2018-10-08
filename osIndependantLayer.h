@@ -27,6 +27,7 @@
 #ifndef _OS_INDEPENDANT_LAYER_H_
 #define _OS_INDEPENDANT_LAYER_H_
 
+// This controls lots of macros that insert logging and debug code.
 #define DD_DEBUG 1
 
 /////////////////////////////////////////////////
